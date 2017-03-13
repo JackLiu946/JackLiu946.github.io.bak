@@ -1,12 +1,12 @@
 ######################站点全局信息，需要部分修改#########################
 # Site settings
-title: lg|liugui's geek worid
+title: lg
 header-img: img/home-bg.jpg
-email: app@codeboy.me
+email: logo123456@foxmail.com
 url: "http://127.0.0.1"
 description: "极客生涯的点点滴滴"
 github_username:  jackliu946
-zhihu_username: 唯先森
+zhihu_username: 刘666
 duoshuo_id: androiddevelop
 
 ##########################上述信息需要您修改########3####################
