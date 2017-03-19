@@ -9,13 +9,13 @@ author: 'liugui'
 ---
 
 
-这段时间一直在用Mac本，因为之前用的少的原因，感觉整个Mac和Windows的区别还是挺大的，在写文档时有个pages文档编辑器，虽然用pages也能将文档导出为doc，docx格式的Word文档，但在很多功能上和使用习惯的office不太一样，使用上也不熟悉，于是在微软的官网上下载了Mac版的office:贴上链接：	
-http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_Installer.pkg
+这段时间一直在用Mac本，因为之前用的少的原因，感觉整个Mac和Windows的区别还是挺大的，在写文档时有个pages文档编辑器，虽然用pages也能将文档导出为doc，docx格式的Word文档，但在很多功能上和使用习惯的office不太一样，使用上也不熟悉，于是在微软的官网上下载了Mac版的office:贴上[链接](	
+http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_Installer.pkg)
 由于使用了某些手段，网速还挺快，很快就下载下来了。。。。。
 不过下载完了在安装后微软需要注册和登录，我试着注册和登录（友情提示：注册时用QQ邮箱可能会收不到邮件，，，），但页面一直是正在检查....f*ck
 
 于是，，我就去破解呗！为了对正版的支持，我决定用正版的去破解。
-在网上找了破解补丁，网上http://bbs.feng.com/read-htm-tid-9704285.html说：
+在网上找了破解补丁，[网上](http://bbs.feng.com/read-htm-tid-9704285.html)说：
 1、应用程序『终端』，在 应用程序 的 实用工具 里面。
 2、将破解补丁拖入终端后，请加上此条指令再按回车输入密码试一次：sudo chmod u+x MSO15.11.2Patch
 3、输入密码以后会弹出一个小的对话框提示安装Xcode，请点击同意，等待下载完成
@@ -26,8 +26,7 @@ http://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac
 做完1-5步提示『All done! Enjoy！』后第6步至今没有实现，看来一定发生的事情在我这没发生。
 最后下载破解激活工具，，，，
 之后运行，直接点击一个黑色开锁的标识按钮，输入系统密码后即可破解激活。
-
-http://jingyan.baidu.com/article/ce09321b7478072bff858f03.html
+[嗯呐](http://jingyan.baidu.com/article/ce09321b7478072bff858f03.html)
 就这样，一会儿就好了。
 > 如有任何知识产权、版权问题或理论错误，还请指正。
 >
