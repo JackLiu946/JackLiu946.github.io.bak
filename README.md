@@ -1,11 +1,11 @@
-# CodeboyBlog
+# lg
 
-[codeboy.me](http://codeboy.me)的网站模板，其中搜索模块可以单独安装，地址如下
+[logeek.info](http://logeek.info)的网站模板，其中搜索模块可以单独安装，地址如下
 
 - jekyll-search [https://github.com/androiddevelop/jekyll-search](https://github.com/androiddevelop/jekyll-search)
 - hexo-search [https://github.com/androiddevelop/hexo-search](https://github.com/androiddevelop/hexo-search)
 
-![网站截图](codeboy.me.png)
+![网站截图](lgweb.png)
 
 ### 安装方式:
 
@@ -75,3 +75,4 @@
 - 在Clean Blog的基础上修改，同时加入黄玄在CleanBlog上添加的云标签。
 - 加入文章搜索功能，pc上可以双击ctrl触发。
 - 优化界面，更好的适配手机。
+  感谢codeboy
